@@ -1,14 +1,14 @@
 # Meu Currículo App (React Native)
 
-Este é um projeto de "Meu Primeiro App" em React Native com Expo, desenvolvido como atividade acadêmica para a faculdade [Nome da Sua Faculdade/Curso].
+Este é um projeto de "Meu Primeiro App" em React Native com Expo, desenvolvido como atividade acadêmica (Faculdade Senac Pe - Embarque Digital).
 
-O objetivo é criar uma tela de currículo simples, exibindo informações pessoais, foto de perfil e experiências, utilizando os componentes básicos do React Native.
+O objetivo era criar uma tela de currículo simples, exibindo informações pessoais, foto de perfil e experiências, utilizando os componentes básicos do React Native.
 
 ---
 
 ## 📱 Preview do App
 
-![Preview do App de Currículo](./assets/preview-do-app.png)
+![Image](https://github.com/user-attachments/assets/9dd0585c-6169-41ea-a6f5-37cfcd4df174)
 
 ---
 
