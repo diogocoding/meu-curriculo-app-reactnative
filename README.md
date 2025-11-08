@@ -8,7 +8,7 @@ O objetivo era criar uma tela de currículo simples, exibindo informações pess
 
 ## 📱 Preview do App
 
-![Image](https://github.com/user-attachments/assets/9dd0585c-6169-41ea-a6f5-37cfcd4df174)
+![Image](https://github.com/user-attachments/assets/f4e11124-4020-400c-9505-e540201d91b2)
 
 ---
 
